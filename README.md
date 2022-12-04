@@ -1,36 +1,31 @@
  
-# Lenovo V110-15ISK Hackintosh OpenCore macOS Ventura
+# Lenovo V110-15ISK 80TL Hackintosh OpenCore macOS Ventura
 
-EFI folder to run latest macOS Ventura version on Lenovo V110-15ISK Laptop using OpenCore as bootloader.
+EFI folder to run macOS Big Sur version on Lenovo V110-15ISK Laptop using OpenCore as bootloader.
 
 ## [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide)
-
-## About this Laptop
-
-![neofetch](https://user-images.githubusercontent.com/66642459/201201838-95f19e34-23ce-478c-abc0-269fd5a462ed.png)
 
 ### Original Hardware
 
 Type | Specification | Status
 :---------|:---------|:----------
-Motherboard	| Phoenix BIOS 1KCN51WW | Working
-CPU | Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz | Working
-Ethernet | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | Working
-Wi-Fi & Bluetooth | Intel Dual Band Wireless-AC 3165 Plus Bluetooth | Working
-GPU | Intel Skylake GT2 HD Graphics 520 | Working
-Audio | Realtek ALC236 | Working
-HDMI | Intel Skylake HDMI | Working
-Keyboard & Touchpad | Synaptics | Working
-Webcam | EasyCamera | Working
-Card Reader | Realtek RTS5129 USB 2.0 Card Reader | Working
-USB | Sunrise Point-LP USB 3.0 xHCI Controller | Working
+Motherboard	| Phoenix BIOS 1KCN51WW
+CPU | Intel(R) Core(TM) i5-6200U CPU @ 2.40GHz 
+RAM | 8GB DDR4 2133MHz (2/2 slots populated)
+Ethernet | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+Wi-Fi & Bluetooth | Intel Dual Band Wireless-AC 3160 Plus Bluetooth (not stock)
+GPU | Intel Skylake GT2 HD Graphics 520
+Audio | Realtek ALC236
+HDMI | Intel Skylake HDMI 
+Keyboard & Touchpad | Synaptics
+Card Reader | Realtek RTS5129 USB 2.0 Card Reader
+USB | Sunrise Point-LP USB 3.0 xHCI Controller
 
 ### Modifications
 
 Type | Status
 :--------- |:---------
-Samsung SSD 850 EVO 250GB Media SATA | Working
-RAM 12.00 GB | Working
+500GB HDD 
 Disc Burning | Removed
 
 ### Used Kexts 
