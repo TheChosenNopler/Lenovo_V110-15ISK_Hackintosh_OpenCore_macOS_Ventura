@@ -48,6 +48,8 @@ Kext | Info
 [RealtekCardReader.kext](https://github.com/0xFireWolf/RealtekCardReader/releases) | An unofficial Realtek PCIe/USB-based SD card reader driver for macOS.
 [RealtekCardReaderFriend.kext](https://github.com/0xFireWolf/RealtekCardReaderFriend/releases) | A Lilu plugin that makes System Information recognize your Realtek card reader as a native one.
 
+Change https://github.com/TheChosenNopler/Lenovo_V110-15ISK_Hackintosh_OpenCore_macOS_Ventura/tree/main/EFI/OC/Kexts/AirportItlwm.kext to whatever release of macOS you're using.
+
 ### Used SSDTs
 
 SSDT | Info
