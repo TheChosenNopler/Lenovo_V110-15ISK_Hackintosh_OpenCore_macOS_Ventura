@@ -17,11 +17,12 @@ RAM | 8GB DDR4 2133MHz (2/2 slots populated)| Working
 Ethernet | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
 Wi-Fi & Bluetooth | Intel Dual Band Wireless-AC 3160 Plus Bluetooth (not stock) | Working
 GPU | Intel Skylake GT2 HD Graphics 520 | Working
-Audio | Realtek ALC236
+Audio | Realtek ALC236 | Working
 HDMI | Intel Skylake HDMI | Working
 Keyboard & Touchpad | Synaptics | Working
 Card Reader | Realtek RTS5129 USB 2.0 Card Reader
 USB | Sunrise Point-LP USB 3.0 xHCI Controller | Working
+Battery | Stock | Working
 
 ### Modifications
 
