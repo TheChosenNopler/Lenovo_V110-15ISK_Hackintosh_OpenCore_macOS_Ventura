@@ -7,25 +7,27 @@ EFI folder to run macOS Big Sur version on Lenovo V110-15ISK Laptop using OpenCo
 
 ### Original Hardware
 
+CURRENTLY UNTESTED 
+
 Type | Specification | Status
 :---------|:---------|:----------
-Motherboard	| Phoenix BIOS 1KCN51WW
-CPU | Intel(R) Core(TM) i5-6200U CPU @ 2.40GHz 
-RAM | 8GB DDR4 2133MHz (2/2 slots populated)
+Motherboard	| Phoenix BIOS 1KCN51WW | Working
+CPU | Intel(R) Core(TM) i5-6200U CPU @ 2.40GHz | Working
+RAM | 8GB DDR4 2133MHz (2/2 slots populated)| Working
 Ethernet | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
-Wi-Fi & Bluetooth | Intel Dual Band Wireless-AC 3160 Plus Bluetooth (not stock)
-GPU | Intel Skylake GT2 HD Graphics 520
+Wi-Fi & Bluetooth | Intel Dual Band Wireless-AC 3160 Plus Bluetooth (not stock) | Working
+GPU | Intel Skylake GT2 HD Graphics 520 | Working
 Audio | Realtek ALC236
-HDMI | Intel Skylake HDMI 
-Keyboard & Touchpad | Synaptics
+HDMI | Intel Skylake HDMI | Working
+Keyboard & Touchpad | Synaptics | Working
 Card Reader | Realtek RTS5129 USB 2.0 Card Reader
-USB | Sunrise Point-LP USB 3.0 xHCI Controller
+USB | Sunrise Point-LP USB 3.0 xHCI Controller | Working
 
 ### Modifications
 
 Type | Status
 :--------- |:---------
-500GB HDD 
+500GB HDD | Working
 Disc Burning | Removed
 
 ### Used Kexts 
